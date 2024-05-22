@@ -9,4 +9,4 @@ Projects from Intro to Machine Learning
 ### Maritime Vessel Movement Clustering
 > Collaboration with Lam Nguyen
 >
-> Implement clustering algorithms to track movements of different vessels given position reports. In other words, predict which vessel each report came from, given multiple reports from each vessel over time. 
+> Implement clustering algorithms to track movements of different vessels given position reports. In other words, predict which vessel each report came from, given multiple reports from each vessel over time. Kmeans, agglomerative clustering, DBSCAN, spectral clustering, and ST-DBSCAN (spatial-temporal DBSCAN) were all tested, with ST-DBSCAN being the most effective. 
