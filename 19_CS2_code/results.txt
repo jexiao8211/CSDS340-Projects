@@ -1,0 +1,34 @@
+Baseline
+-----------------
+Adjusted Rand Index Baseline Score of set1.csv: 0.2392
+Adjusted Rand Index Baseline Score of set2.csv: 0.3234
+
+KMeans
+-----------------
+Adjusted Rand Index Prediction Score of set1.csv: 0.2758
+Adjusted Rand Index Prediction Score of set2.csv: 0.4116
+
+AgglomerativeClustering
+-----------------
+Adjusted Rand Index Prediction Score of set1.csv: 0.1590
+Adjusted Rand Index Prediction Score of set2.csv: 0.5648
+
+DBSCAN
+-----------------
+Adjusted Rand Index Prediction Score of set1.csv: 0.1536
+Adjusted Rand Index Prediction Score of set2.csv: 0.9426
+
+SpectralClustering
+-----------------
+Adjusted Rand Index Prediction Score of set1.csv: 0.1699
+Adjusted Rand Index Prediction Score of set2.csv: 0.4683
+
+BestModel
+-----------------
+Adjusted Rand Index Prediction Score of set1.csv: 0.2758
+Adjusted Rand Index Prediction Score of set2.csv: 0.9426
+
+ST_DBSCAN
+-----------------
+Adjusted Rand Index Prediction Score of set1.csv: 0.1800
+Adjusted Rand Index Prediction Score of set2.csv: 0.9459
