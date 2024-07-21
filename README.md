@@ -1,5 +1,5 @@
 # CSDS340-Projects
-Projects from Intro to Machine Learning. Includes 1) apple quality classifier and 2) maritime vessel movement clustering
+1) apple quality classifier and 2) maritime vessel movement clustering. Projects from Intro to Machine Learning. 
 
 ### Apply Quality Classifier https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality
 > Collaboration with Lam Nguyen
